@@ -1,9 +1,12 @@
 #HSLIDE
 
-### R
-### OpenCPU Spark Executor
-### (ROSE)
+### Mug In Clermont - Q1-2017
+#### (Fin mars 2017)
 
 #HSLIDE
 
-## ROSE Apache Spark Package
+#HSLIDE
+## Quand ?
+### Fin mars 2017 de 18H30 à 20H00
+## Où ?
+### Salle de conférence de Prizee (22 allée Alan Turing, 63000 Clermont-Ferrand)

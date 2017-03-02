@@ -1,7 +1,7 @@
 #HSLIDE
 
-### Mug In Clermont - Q1-2017
-#### (Fin mars 2017)
+### Mug In Clermont - M1-2017
+#### (Fin mai 2017)
 
 #HSLIDE
 

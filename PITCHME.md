@@ -5,10 +5,10 @@
 
 #HSLIDE
 ### Qui ?
-Président : Kevin BEAUGRAND
-Vice-Président : Sylvain Le Gouellec
-Trésorier : Pierre Plagnes
-Secrétaire : Jérôme Bolot
+* Président : Kevin BEAUGRAND
+* Vice-Président : Sylvain Le Gouellec
+* Trésorier : Pierre Plagnes
+* Secrétaire : Jérôme Bolot
 
 #HSLIDE
 ## Quand ?

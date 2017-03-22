@@ -15,7 +15,5 @@
 Tous les 2 mois si les sujets le permettent
 
 #HSLIDE
-## Quand ?
-### 13 Juin 2017 de 18H30 à 20H00
 ## Où ?
 ### Salle de conférence de Prizee (22 allée Alan Turing, 63000 Clermont-Ferrand)

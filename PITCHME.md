@@ -4,7 +4,12 @@
 #### (13 Juin 2017)
 
 #HSLIDE
-### L'équipe ?
+### Quoi ?
+Des conférences techniques autour des technologies Microsoft
+du .Net, du Typescript, des outils, des expériences
+
+#HSLIDE
+### L'équipe
 Kevin, Sylvain, Pierre, Damien, Jérôme
 
 #HSLIDE

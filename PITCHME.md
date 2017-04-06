@@ -4,11 +4,8 @@
 #### (13 Juin 2017)
 
 #HSLIDE
-### Qui ?
-* Président : Kevin BEAUGRAND
-* Vice-Président : Sylvain Le Gouellec
-* Trésorier : Pierre Plagnes
-* Secrétaire : Jérôme Bolot
+### L'équipe ?
+Kevin, Sylvain, Pierre, Damien, Jérôme
 
 #HSLIDE
 ## Fréquence ?

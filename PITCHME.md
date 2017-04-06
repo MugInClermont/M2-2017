@@ -6,6 +6,7 @@
 #HSLIDE
 ### Quoi ?
 Des conférences techniques autour des technologies Microsoft
+
 du .Net, du Typescript, des outils, des expériences
 
 #HSLIDE

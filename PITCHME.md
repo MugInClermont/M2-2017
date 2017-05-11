@@ -19,8 +19,21 @@ Tous les 2 mois si les sujets le permettent
 
 #HSLIDE
 ### Où ?
-Salle de conférence de Prizee (22 allée Alan Turing, 63000 Clermont-Ferrand)
+Salle de conférence du Bivouac (22 allée Alan Turing, 63000 Clermont-Ferrand)
 
 #HSLIDE
-### Public visé
+## Public visé
 Tous les étudiants en informatiques, les professionnels utilisant les technologies Microsoft.
+
+#HSLIDE
+## La première session
+Xamarin
+#### Présenté par 
+Jean-Sébastien DUPUY - Technical evangelist - Mobile & IoT
+
+#HSLIDE
+##Plus d'infos
+Notre Meetup : https://www.meetup.com/fr-FR/MugInClermont
+Notre site : http://muginclermont.azurewebsites.net
+Notre mail: muginclermont@outlook.com
+Notre twitter: @muginclermont

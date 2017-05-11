@@ -28,12 +28,12 @@ Tous les étudiants en informatiques, les professionnels utilisant les technolog
 #HSLIDE
 ## La première session
 Xamarin
-#### Présenté par 
+### Présenté par 
 Jean-Sébastien DUPUY - Technical evangelist - Mobile & IoT
 
 #HSLIDE
 ##Plus d'infos
-Notre Meetup : https://www.meetup.com/fr-FR/MugInClermont
-Notre site : http://muginclermont.azurewebsites.net
-Notre mail: muginclermont@outlook.com
-Notre twitter: @muginclermont
+* Notre Meetup : https://www.meetup.com/fr-FR/MugInClermont
+* Notre site : http://muginclermont.azurewebsites.net
+* Notre mail: muginclermont@outlook.com
+* Notre twitter: @muginclermont

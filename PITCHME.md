@@ -30,7 +30,8 @@ Tous les étudiants en informatiques, les professionnels utilisant les technolog
 # Xamarin 
 ## Le 13 juin 2017 à 18H30
 Présenté par 
-### Jean-Sébastien DUPUY - Technical evangelist - Mobile & IoT
+### Jean-Sébastien DUPUY 
+#### Technical evangelist - Mobile & IoT
 
 #HSLIDE
 ##Plus d'infos

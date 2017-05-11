@@ -19,7 +19,8 @@ Tous les 2 mois si les sujets le permettent
 
 #HSLIDE
 ### Où ?
-Salle de conférence du Bivouac (22 allée Alan Turing, 63000 Clermont-Ferrand)
+Salle de conférence du Bivouac <br />
+22 allée Alan Turing, 63000 Clermont-Ferrand
 
 #HSLIDE
 ## Public visé

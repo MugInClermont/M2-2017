@@ -26,7 +26,6 @@ Salle de conférence du Bivouac (22 allée Alan Turing, 63000 Clermont-Ferrand)
 Tous les étudiants en informatiques, les professionnels utilisant les technologies Microsoft.
 
 #HSLIDE
-## La première session
 # Xamarin 
 ## Le 13 juin 2017 à 18H30
 Présenté par 

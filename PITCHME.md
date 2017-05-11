@@ -1,7 +1,7 @@
 #HSLIDE
 
 ### Mug In Clermont - M1-2017
-#### (13 Juin 2017)
+#### 13 Juin 2017
 
 #HSLIDE
 ### Quoi ?
@@ -27,9 +27,10 @@ Tous les étudiants en informatiques, les professionnels utilisant les technolog
 
 #HSLIDE
 ## La première session
-Xamarin
-### Présenté par 
-Jean-Sébastien DUPUY - Technical evangelist - Mobile & IoT
+# Xamarin 
+## Le 13 juin 2017 à 18H30
+Présenté par 
+### Jean-Sébastien DUPUY - Technical evangelist - Mobile & IoT
 
 #HSLIDE
 ##Plus d'infos

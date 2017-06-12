@@ -1,6 +1,7 @@
 #HSLIDE
-[Logo](assets/images/background.png)
+![Logo](assets/images/background.png)
 
+#HSLIDE
 ### Mug In Clermont - M1-2017
 #### 13 Juin 2017
 
@@ -18,21 +19,21 @@ Kevin, Sylvain, Pierre, Damien, Jérôme
 ## Fréquence ?
 Tous les 2 mois si les sujets le permettent
 
-#HSLIDE
-### Où ?
-Salle de conférence du Bivouac <br />
-22 allée Alan Turing, 63000 Clermont-Ferrand
+#HSLIDE 
+### Qu'avons-nous au menu ?
+Retours sur les annonces de la #Build 2017 (10-12 Mai 2017)
 
-#HSLIDE
-## Public visé
-Tous les étudiants en informatiques, les professionnels utilisant les technologies Microsoft.
+#HSLIDE 
+### Qu'avons-nous au menu ?
+Dévelopment Mobile multi-plateformes avec Xamarin 
 
-#HSLIDE
-# Xamarin 
-## Le 13 juin 2017 à 18H30
-Présenté par 
-### Jean-Sébastien DUPUY 
-#### Technical evangelist - Mobile & IoT
+#HSLIDE 
+### Et après ? 
+    * Azure ?
+    * NodeJS ?
+    * .NETCore ?
+#### A vous de votez : 
+Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus
 
 #HSLIDE
 ##Plus d'infos
@@ -40,3 +41,10 @@ Présenté par
 * Notre site : http://muginclermont.azurewebsites.net
 * Notre mail: muginclermont@outlook.com
 * Notre twitter: @muginclermont
+
+#HSLIDE
+# Xamarin 
+## Le 13 juin 2017 à 18H30
+Présenté par 
+### Jean-Sébastien DUPUY 
+#### Technical evangelist - Mobile & IoT

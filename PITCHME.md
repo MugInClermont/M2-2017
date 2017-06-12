@@ -21,7 +21,8 @@ Tous les 2 mois si les sujets le permettent
 
 #HSLIDE 
 ### Qu'avons-nous au menu ?
-Retours sur les annonces de la #Build 2017 (10-12 Mai 2017)
+Retours sur les annonces de la #Build 2017 <br />
+(10-12 Mai 2017)
 
 #HSLIDE 
 ### Qu'avons-nous au menu ?

@@ -29,11 +29,11 @@ Dévelopment Mobile multi-plateformes avec Xamarin
 
 #HSLIDE 
 ### Et après ? 
-    * Azure ?
-    * NodeJS ?
-    * .NETCore ?
+     Azure ?
+     NodeJS ?
+     .NETCore ?
 #### A vous de votez : 
-Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus
+Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus...
 
 #HSLIDE
 ##Plus d'infos
@@ -43,8 +43,7 @@ Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous inter
 * Notre twitter: @muginclermont
 
 #HSLIDE
-# Xamarin 
-## Le 13 juin 2017 à 18H30
+# #Build 2017 et Xamarin 
 Présenté par 
 ### Jean-Sébastien DUPUY 
 #### Technical evangelist - Mobile & IoT

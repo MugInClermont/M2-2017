@@ -1,5 +1,7 @@
 #HSLIDE
 
+![Logo](assets/images/background.png)
+
 ### Mug In Clermont - M1-2017
 #### 13 Juin 2017
 

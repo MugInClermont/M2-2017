@@ -1,2 +1,2 @@
 background : images/background.png
-background-size : cover
+background-size : contain

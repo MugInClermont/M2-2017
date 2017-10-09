@@ -2,37 +2,22 @@
 ![Logo](assets/images/background.png)
 
 #HSLIDE
-### Mug In Clermont - M1-2017
-#### 13 Juin 2017
-
-#HSLIDE
-### Quoi ?
-Des conférences techniques autour des technologies Microsoft
-
-du .Net, du Typescript, des outils, des expériences
-
-#HSLIDE
-### L'équipe
+### Mug In Clermont - M2-2017
+#### 10 Octobre 2017
+#### L'équipe
 Kevin, Sylvain, Pierre, Damien, Jérôme
 
-#HSLIDE
-## Fréquence ?
-Tous les 2 mois si les sujets le permettent
+#HSLIDE 
+### Qu'avons-nous au menu ?
+Présentation AI'nnov <br />
+(05-06 Décembre 2017)
 
 #HSLIDE 
 ### Qu'avons-nous au menu ?
-Retours sur les annonces de la #Build 2017 <br />
-(10-12 Mai 2017)
-
-#HSLIDE 
-### Qu'avons-nous au menu ?
-Dévelopment Mobile multi-plateformes avec Xamarin 
+.NET Core 
 
 #HSLIDE 
 ### Et après ? 
-     Azure ?
-     NodeJS ?
-     .NETCore ?
 #### A vous de votez : 
 Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus...
 
@@ -44,7 +29,13 @@ Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous inter
 * Notre twitter: @muginclermont
 
 #HSLIDE
-# #Build 2017 et Xamarin 
+##Présentation AI'nnov 
 Présenté par 
-### Jean-Sébastien DUPUY 
-#### Technical evangelist - Mobile & IoT
+### Jean-Damay 
+#### Ingénieur logiciel, Michelin
+
+#HSLIDE
+## .Net Core
+Présenté par 
+### Thomas Bailly
+#### Artiste développeur indépendant

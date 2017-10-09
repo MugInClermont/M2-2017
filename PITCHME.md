@@ -22,14 +22,14 @@ Présentation AI'nnov <br />
 Rendez-vous sur notre meetup dès ce soir pour choisir les sujets qui vous interessent le plus...
 
 #HSLIDE
-##Plus d'infos
+## Plus d'infos
 * Notre Meetup : https://www.meetup.com/fr-FR/MugInClermont
 * Notre site : http://muginclermont.azurewebsites.net
 * Notre mail: muginclermont@outlook.com
 * Notre twitter: @muginclermont
 
 #HSLIDE
-##Présentation AI'nnov 
+## Présentation AI'nnov 
 Présenté par 
 ### Jean-Damay 
 #### Ingénieur logiciel, Michelin

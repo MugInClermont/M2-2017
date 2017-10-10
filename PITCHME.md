@@ -14,7 +14,7 @@ Présentation AI'nnov <br />
 
 #HSLIDE 
 ### Qu'avons-nous au menu ?
-.NET Core 
+.NET est mort, vive .NET
 
 #HSLIDE 
 ### Et après ? 
@@ -35,7 +35,7 @@ Présenté par
 #### Ingénieur logiciel, Michelin
 
 #HSLIDE
-## .Net Core
+## .NET est mort, vive .NET
 Présenté par 
 ### Thomas Bailly
 #### Artiste développeur indépendant

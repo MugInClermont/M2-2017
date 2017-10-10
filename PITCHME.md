@@ -12,6 +12,9 @@ Kevin, Sylvain, Pierre, Damien, Jérôme
 Présentation AI'nnov <br />
 (05-06 Décembre 2017)
 
+#VSLIDE
+![Logo](assets/images/asseline.png)
+
 #HSLIDE 
 ### Qu'avons-nous au menu ?
 .NET est mort, vive .NET
